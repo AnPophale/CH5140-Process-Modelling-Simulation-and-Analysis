@@ -25,7 +25,7 @@ The further steps are carried out using MATLAB to solve and analyze the system o
 * The effect of different initial conditions on the dynamics of the system are studied by creating phase plane plots for different values of the non dimensional manipulated variable.
 
 **Results:**
-* Following is a comparison of the bifurcation plots with Pushpavanam et al. (2005)  
+* Following is a comparison of the bifurcation plots with Pushpavanam et al. (2005).  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/24e76a52-e786-420b-895e-af25e9506e35" alt="Fig 2: Bifurcation plots for the system without delay" style="width: 75%;">
 </p>
@@ -40,7 +40,7 @@ The further steps are carried out using MATLAB to solve and analyze the system o
   <em>Figure 3: Bifurcation plots for the system with delay</em>
 </p>
 
-* Fig. 4 shows phase plane plots for different values of the non dimensional manipulated variable Da1 depicting its effect on the existence of steady stable states  
+* Fig. 4 shows phase plane plots for different values of the non dimensional manipulated variable Da1 depicting its effect on the existence of steady stable states.  
 <p align="center">
     <img src="https://github.com/user-attachments/assets/8dfa51e1-3c09-4e9c-8055-2e3773345277" style="width: 75%;">
 </p>
