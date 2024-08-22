@@ -4,15 +4,11 @@
 The aim of the project is to model the coupled system of a reactor with a flash downstream considering the effect of transport delay between the two. This problem statement is taken from Pushpavanam et al. (2005) and in this project, the results are reproduced using techniques learnt throughout the course. A detailed presentation and MATLAB codes are uploaded in the repository. The motivation for the work, the methodology used as well the results and conclusions are brielfy presented below.
 
 **Motivation:**
-
 In a typical chemical industry, a reactor is coupled with a seperator downstream to recycle unreacted reactants to the reactor. Hence, these units are coupled to each other by the recycle stream as depicted in Fig 1 which includes a CSTR and a flash unit. We aim to study the stability and dynamics of such a system so as to operate the process at appropriate conditions avoiding unstable states. Further, we consider the effect of transport delay as the stream exiting the reactor does not reach the seperator instantaneously
 
-<p align="center">
-  <figure>
-    <img src="https://github.com/user-attachments/assets/cdcedf62-fd82-4614-a7b2-32e65503de98" alt="Fig 1: The coupled reactor (CSTR) and separator (flash) system">
-    <figcaption>Fig 1: The coupled reactor (CSTR) and separator (flash) system</figcaption>
-  </figure>
-</p>
+
+<img align = "right "src="https://github.com/user-attachments/assets/cdcedf62-fd82-4614-a7b2-32e65503de98" alt="Fig 1: The coupled reactor (CSTR) and separator (flash) system">
+
 
 **Methodology:**
 * The governing equations are derived using the species mass balance for each of the unit as well as the entire system and the energy balance for the non isothermal CSTR. To simplify the equations further, we consider the case of a first order irreversible reaction
